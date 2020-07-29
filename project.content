@@ -1,0 +1,6 @@
+CreateUser\Users.xml
+GetUserByParam\Byparam.xml
+DeleteUserByParam\ByParam.xml
+EndToEnd-Automation\CreatePrimaryCustomer.xml
+EndToEnd-Automation\GetPrimaryCustomer.xml
+EndToEnd-Automation\DeletePrimaryUser.xml
